@@ -4,7 +4,9 @@
 
 
 # 💫 About Me:
-👋 Hi there! I'm Saif Anas, a passionate and enthusiastic DevOps Engineer. I am dedicated to leveraging my skills in automation, continuous integration, and cloud technologies to streamline and enhance the software development lifecycle.<br><br>🔧 I have hands-on experience with tools like Docker, Kubernetes, Jenkins, and AWS. My focus is on building robust, scalable, and efficient systems that bridge the gap between development and operations.<br><br>🌱 I am constantly learning and exploring new technologies to stay up-to-date with the latest trends in DevOps and cloud computing. I believe in the power of collaboration and open-source contributions to drive innovation and improvement.<br><br>💬 Let's connect and collaborate on exciting projects! Feel free to check out my repositories and reach out if you have any questions or ideas.
+👋 Hi there! I'm Saif Anas, a passionate and enthusiastic DevOps Engineer. I am dedicated to leveraging my skills in automation, continuous integration, and cloud technologies to streamline and enhance the software development lifecycle.<br><br>🔧 I have hands-on experience with tools like Docker, Kubernetes, Jenkins, and AWS. My focus is on building robust, scalable, and efficient systems that bridge the gap between development and operations.<br><br>
+<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpxZTZlb3JnZWI2d3F5NDVuNTVsYm5hZnBpdm8yZXdrOXBvbDhvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+🌱 I am constantly learning and exploring new technologies to stay up-to-date with the latest trends in DevOps and cloud computing. I believe in the power of collaboration and open-source contributions to drive innovation and improvement.<br><br>💬 Let's connect and collaborate on exciting projects! Feel free to check out my repositories and reach out if you have any questions or ideas.
 
 
 ## 🌐 Socials:
