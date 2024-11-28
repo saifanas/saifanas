@@ -1,12 +1,26 @@
 <img align="center" alt="Coding" width="1200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<h1 align="center">Hi 👋, I'm Saif Anas</h1>
+<h3 align="center">A passionate DevOps Engineer from India</h3
 
 
 
+<img align="right" alt="Coding" width="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpxZTZlb3JnZWI2d3F5NDVuNTVsYm5hZnBpdm8yZXdrOXBvbDhvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-# 💫 About Me:
-👋 Hi there! I'm Saif Anas, a passionate and enthusiastic DevOps Engineer. I am dedicated to leveraging my skills in automation, continuous integration, and cloud technologies to streamline and enhance the software development lifecycle.<br><br>🔧 I have hands-on experience with tools like Docker, Kubernetes, Jenkins, and AWS. My focus is on building robust, scalable, and efficient systems that bridge the gap between development and operations.<br><br>
+- 🌱 I’m currently learning **ArgoCD ,AZURE, MERN**
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpxZTZlb3JnZWI2d3F5NDVuNTVsYm5hZnBpdm8yZXdrOXBvbDhvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
-🌱 I am constantly learning and exploring new technologies to stay up-to-date with the latest trends in DevOps and cloud computing. I believe in the power of collaboration and open-source contributions to drive innovation and improvement.<br><br>💬 Let's connect and collaborate on exciting projects! Feel free to check out my repositories and reach out if you have any questions or ideas.
+
+- 💬 Ask me about **DevOps, Cloud**
+
+- 📫 How to reach me **saifanask2@gmail.com**
+
+- 🔧 I have hands-on experience with tools like Docker, Kubernetes, Jenkins, and AWS. My focus is on building robust, scalable, and efficient systems that bridge the gap between development and operations.
+
+- 🌱 I am constantly learning and exploring new technologies to stay up-to-date with the latest trends in DevOps and cloud computing. I believe in the power of collaboration and open-source contributions to drive innovation and improvement.
+
+- 💬 Let's connect and collaborate on exciting projects! Feel free to check out my repositories and reach out if you have any questions or ideas.
+
+
+
 
 
 ## 🌐 Socials:
