@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpxZTZlb3JnZWI2d3F5NDVuNTVsYm5hZnBpdm8yZXdrOXBvbDhvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 - 🌱 I’m currently learning **ArgoCD ,AZURE, MERN**
-<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpxZTZlb3JnZWI2d3F5NDVuNTVsYm5hZnBpdm8yZXdrOXBvbDhvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="300" border="20" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdocm1zZXp2a3Q5MzcwaXJub2VqcnRvNnhzcHk4dGN0dGpnN3RpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 - 💬 Ask me about **DevOps, Cloud**
 
